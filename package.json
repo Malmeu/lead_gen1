@@ -1,0 +1,37 @@
+{
+  "name": "lead-generator-france",
+  "version": "1.0.0",
+  "description": "Application de génération de leads pour entreprises françaises avec scraping Google Maps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/xlsx": "^0.0.35",
+    "axios": "^1.6.0",
+    "cheerio": "^1.1.2",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^10.16.0",
+    "fuse.js": "^7.0.0",
+    "next": "^14.0.0",
+    "papaparse": "^5.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.47.0",
+    "react-query": "^3.39.0",
+    "styled-components": "^6.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/styled-components": "^5.1.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "typescript": "^5.0.0"
+  }
+}
