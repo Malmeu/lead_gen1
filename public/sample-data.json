@@ -1,0 +1,62 @@
+[
+  {
+    "Company Name": "Le Bistrot Parisien",
+    "Street": "123 Rue de la Paix",
+    "City": "Paris",
+    "Zip": "75001",
+    "Tel": "01 23 45 67 89",
+    "Email": "contact@bistrotparisien.fr",
+    "Website": "www.bistrotparisien.fr",
+    "CATEGORY": "Restaurant",
+    "Department": "Paris",
+    "Region": "Île-de-France"
+  },
+  {
+    "Company Name": "Café de Lyon",
+    "Street": "45 Avenue des Lumières",
+    "City": "Lyon",
+    "Zip": "69002",
+    "Tel": "04 56 78 90 12",
+    "Email": "info@cafedelyon.fr",
+    "Website": "www.cafedelyon.fr",
+    "CATEGORY": "Café",
+    "Department": "Rhône",
+    "Region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "Company Name": "Brasserie Marseille",
+    "Street": "78 Quai du Vieux Port",
+    "City": "Marseille",
+    "Zip": "13001",
+    "Tel": "04 91 23 45 67",
+    "Email": "brasserie@marseille.fr",
+    "Website": "www.brasseriemarseille.fr",
+    "CATEGORY": "Brasserie",
+    "Department": "Bouches-du-Rhône",
+    "Region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "Company Name": "Restaurant Nice",
+    "Street": "12 Promenade des Anglais",
+    "City": "Nice",
+    "Zip": "06000",
+    "Tel": "04 93 12 34 56",
+    "Email": "contact@restaurantnice.fr",
+    "Website": "www.restaurantnice.fr",
+    "CATEGORY": "Restaurant",
+    "Department": "Alpes-Maritimes",
+    "Region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "Company Name": "Bar Toulouse",
+    "Street": "34 Rue Alsace-Lorraine",
+    "City": "Toulouse",
+    "Zip": "31000",
+    "Tel": "05 61 23 45 67",
+    "Email": "bar@toulouse.fr",
+    "Website": "www.bartoulouse.fr",
+    "CATEGORY": "Bar",
+    "Department": "Haute-Garonne",
+    "Region": "Occitanie"
+  }
+]
