@@ -1,0 +1,98 @@
+[
+  {
+    "[Company Name]": "Le Bistrot Parisien",
+    "[Street]": "123 Rue de Rivoli",
+    "[City]": "Paris",
+    "[Zip]": "75001",
+    "[Tel]": "01 42 60 30 30",
+    "[Email]": "contact@lebistrotparisien.fr",
+    "[Website]": "www.lebistrotparisien.fr",
+    "[CATEGORY]": "Restaurant",
+    "[Department]": "Paris",
+    "[Region]": "Île-de-France"
+  },
+  {
+    "[Company Name]": "Café de Lyon",
+    "[Street]": "45 Rue de la République",
+    "[City]": "Lyon",
+    "[Zip]": "69002",
+    "[Tel]": "04 78 42 15 36",
+    "[Email]": "info@cafedelyon.com",
+    "[Website]": "www.cafedelyon.com",
+    "[CATEGORY]": "Café",
+    "[Department]": "Rhône",
+    "[Region]": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "[Company Name]": "Brasserie Marseille",
+    "[Street]": "78 Cours Mirabeau",
+    "[City]": "Marseille",
+    "[Zip]": "13006",
+    "[Tel]": "04 91 54 32 10",
+    "[Email]": "contact@brasseriemarseille.fr",
+    "[Website]": "www.brasseriemarseille.fr",
+    "[CATEGORY]": "Brasserie",
+    "[Department]": "Bouches-du-Rhône",
+    "[Region]": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "[Company Name]": "Restaurant Lille",
+    "[Street]": "12 Rue Nationale",
+    "[City]": "Lille",
+    "[Zip]": "59000",
+    "[Tel]": "03 20 12 34 56",
+    "[Email]": "reservation@restaurantlille.fr",
+    "[Website]": "www.restaurantlille.fr",
+    "[CATEGORY]": "Restaurant",
+    "[Department]": "Nord",
+    "[Region]": "Hauts-de-France"
+  },
+  {
+    "[Company Name]": "Bar Toulouse",
+    "[Street]": "89 Rue Alsace-Lorraine",
+    "[City]": "Toulouse",
+    "[Zip]": "31000",
+    "[Tel]": "05 61 23 45 67",
+    "[Email]": "contact@bartoulouse.fr",
+    "[Website]": "www.bartoulouse.fr",
+    "[CATEGORY]": "Bar",
+    "[Department]": "Haute-Garonne",
+    "[Region]": "Occitanie"
+  },
+  {
+    "[Company Name]": "Bistrot Bordeaux",
+    "[Street]": "34 Rue Sainte-Catherine",
+    "[City]": "Bordeaux",
+    "[Zip]": "33000",
+    "[Tel]": "05 56 78 90 12",
+    "[Email]": "info@bistrotbordeaux.fr",
+    "[Website]": "www.bistrotbordeaux.fr",
+    "[CATEGORY]": "Bistrot",
+    "[Department]": "Gironde",
+    "[Region]": "Nouvelle-Aquitaine"
+  },
+  {
+    "[Company Name]": "Hôtel Restaurant Nice",
+    "[Street]": "15 Promenade des Anglais",
+    "[City]": "Nice",
+    "[Zip]": "06000",
+    "[Tel]": "04 93 16 43 21",
+    "[Email]": "booking@hotelrestaurantnice.fr",
+    "[Website]": "www.hotelrestaurantnice.fr",
+    "[CATEGORY]": "Hôtel-Restaurant",
+    "[Department]": "Alpes-Maritimes",
+    "[Region]": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "[Company Name]": "Crêperie Rennes",
+    "[Street]": "56 Rue Saint-Malo",
+    "[City]": "Rennes",
+    "[Zip]": "35000",
+    "[Tel]": "02 99 12 34 56",
+    "[Email]": "contact@creperierennes.fr",
+    "[Website]": "www.creperierennes.fr",
+    "[CATEGORY]": "Crêperie",
+    "[Department]": "Ille-et-Vilaine",
+    "[Region]": "Bretagne"
+  }
+]

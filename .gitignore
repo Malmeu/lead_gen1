@@ -20,14 +20,10 @@ dist/
 *.xlsx
 *.xls
 *.csv
-*.json
-!package.json
-!package-lock.json
-!tsconfig.json
-!next.config.json
-prospects-data.json
-test-data.json
-prospects-data-light.json
+# Allow JSON data files for deployment
+# prospects-data.json
+# test-data.json
+# prospects-data-light.json
 
 # Logs
 npm-debug.log*
@@ -88,7 +84,8 @@ dist
 
 # Gatsby files
 .cache/
-public
+# Allow public folder for JSON data files
+# public
 
 # Storybook build outputs
 .out
